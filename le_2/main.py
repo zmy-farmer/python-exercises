@@ -1,5 +1,5 @@
 # _*_ coding:utf-8 _*_
-#生成随机码
+#生成随机码 修改
 import random, string  
   
 def rand_str(num, length = 7):  
