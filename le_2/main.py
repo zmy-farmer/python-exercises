@@ -1,4 +1,5 @@
 # _*_ coding:utf-8 _*_
+#生成随机码
 import random, string  
   
 def rand_str(num, length = 7):  
