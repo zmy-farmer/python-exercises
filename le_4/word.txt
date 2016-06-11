@@ -1,0 +1,5 @@
+The World Wide Web (known as "WWW', "Web" or "W3") is the universe of network-accessible information, the embodiment of human knowledge.
+
+The World Wide Web began as a networked information project at CERN, where Tim Berners-Lee, now Director of the World Wide Web Consortium [W3C], developed a vision of the project.
+
+The Web has a body of software, and a set of protocols and conventions. Through the use hypertext and multimedia techniques, the web is easy for anyone to roam, browse, and contribute to. An early talk about the Web gives some more background on how the Web was originally conceived.
