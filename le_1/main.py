@@ -1,5 +1,5 @@
 # _*_ coding:utf-8 _*_
-#写的比较粗糙 没有加错误和异常处理
+#写的比较粗糙 没有加错误和异常处理 图片气泡
 from PIL import Image,ImageFont,ImageDraw
 import os
 import sys

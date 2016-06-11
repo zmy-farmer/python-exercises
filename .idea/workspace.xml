@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/le_1/main.py" afterPath="$PROJECT_DIR$/le_1/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-exercises.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,22 +30,10 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/le_1/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="480">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.032397408" vertical-offset="0" max-vertical-offset="480">
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
               <folding>
-                <element signature="e#42#83#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thumb_size.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/le_5/thumb_size.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="182" max-vertical-offset="645">
-              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding>
-                <element signature="e#177#198#0" expanded="true" />
+                <element signature="e#47#88#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,8 +56,8 @@
         <option value="$PROJECT_DIR$/le_4/word.txt" />
         <option value="$PROJECT_DIR$/le_4/ceshi.txt" />
         <option value="$PROJECT_DIR$/le_4/count_word.py" />
-        <option value="$PROJECT_DIR$/le_1/main.py" />
         <option value="$PROJECT_DIR$/le_5/thumb_size.py" />
+        <option value="$PROJECT_DIR$/le_1/main.py" />
       </list>
     </option>
   </component>
@@ -343,7 +332,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465618472854</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="你有一个目录，装了很多照片，把它们的尺寸变成都不大于 iPhone5 分辨率的大小。">
+      <created>1465618479937</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1465618479937</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -425,7 +420,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="480">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <element signature="e#42#83#0" expanded="true" />
+            <element signature="e#47#88#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -453,7 +448,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#42#83#0" expanded="true" />
+            <element signature="e#47#88#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -565,10 +560,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/le_1/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="480">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.032397408" vertical-offset="0" max-vertical-offset="480">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding>
-            <element signature="e#42#83#0" expanded="true" />
+            <element signature="e#47#88#0" expanded="true" />
           </folding>
         </state>
       </provider>
