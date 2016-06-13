@@ -25,6 +25,7 @@ def find_all_link(url):
      # 过滤
     alist = [i.attrs['href'] for i in a if i.attrs['href'][0] != 'j']
      # 将形如#comment-text的锚点补全成http://www.ruanyifeng.com/blog/2015/05/co.html,将形如/feed.html补全为http://www.ruanyifeng.com/feed.html
+    # 看不懂 网上抄过来的 只知道lambda是一个表达式 和def作用差不多 但是他可以接表达式 嵌套在语句里使用
     alist = map(lambda i: proto + '://' + domain + i if i[0] == '/' else url + i if i[0] == '#' else i, alist)
     return alist
 
