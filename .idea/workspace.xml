@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_9/find_href.py" />
+    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="使用 Python 生成类似于下图中的字母验证码图片" />
+    <list id="8ac5fa37-177c-4c57-a985-7e5d78291d87" name="New changelist" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_10/BigCaslon.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_10/verify.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-exercises.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
+    <file path="$PROJECT_DIR$/le_10/verify.py" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,13 +31,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="find_href.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="find_href.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/le_9/find_href.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12958963" vertical-offset="0" max-vertical-offset="555">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
               <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="17" />
               <folding>
                 <element signature="e#72#101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verify.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/le_10/verify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3649635" vertical-offset="0" max-vertical-offset="795">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#84#137#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,6 +83,7 @@
         <option value="$PROJECT_DIR$/le_8/ceshi.html" />
         <option value="$PROJECT_DIR$/le_8/find_content.py" />
         <option value="$PROJECT_DIR$/le_9/find_href.py" />
+        <option value="$PROJECT_DIR$/le_10/verify.py" />
       </list>
     </option>
   </component>
@@ -130,6 +147,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="le_10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python-exercises" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="le_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -149,11 +194,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/le_10" />
+      <recent name="$PROJECT_DIR$/le_1" />
       <recent name="$PROJECT_DIR$/le_7" />
       <recent name="$PROJECT_DIR$/le_6" />
       <recent name="$PROJECT_DIR$/le_5" />
-      <recent name="$PROJECT_DIR$/le_21" />
-      <recent name="$PROJECT_DIR$/le_2" />
     </key>
   </component>
   <component name="RunManager">
@@ -285,6 +330,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="" />
+      <changelist id="8ac5fa37-177c-4c57-a985-7e5d78291d87" name="New changelist" comment="" />
       <created>1465524013940</created>
       <option name="number" value="Default" />
       <updated>1465524013940</updated>
@@ -379,7 +425,19 @@
       <option name="project" value="LOCAL" />
       <updated>1465828938550</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="一个HTML文件，找出里面的链接。">
+      <created>1465829617103</created>
+      <option name="number" value="00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1465829617103</updated>
+    </task>
+    <task id="LOCAL-00017" summary="一个HTML文件，找出里面的链接。">
+      <created>1465830931542</created>
+      <option name="number" value="00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1465830931542</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -435,7 +493,8 @@
     <MESSAGE value="统计日志文件的关键词" />
     <MESSAGE value="统计一下你写过多少行代码。包括空行和注释" />
     <MESSAGE value="一个HTML文件，找出里面的正文" />
-    <option name="LAST_COMMIT_MESSAGE" value="一个HTML文件，找出里面的正文" />
+    <MESSAGE value="一个HTML文件，找出里面的链接。" />
+    <option name="LAST_COMMIT_MESSAGE" value="一个HTML文件，找出里面的链接。" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -472,6 +531,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="480">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#88#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -493,6 +555,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#47#88#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -504,11 +569,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/le_1/head.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/le_1/output.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -582,13 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/le_1/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.032397408" vertical-offset="0" max-vertical-offset="480">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/le_5/thumb_size.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5507559" vertical-offset="135" max-vertical-offset="645">
@@ -651,12 +704,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/le_1/output.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/le_1/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.064794816" vertical-offset="0" max-vertical-offset="480">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
+          <folding>
+            <element signature="e#47#88#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/site-packages/PIL/ImageFilter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4215">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/le_9/find_href.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12958963" vertical-offset="0" max-vertical-offset="555">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="17" />
           <folding>
             <element signature="e#72#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/le_10/verify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3649635" vertical-offset="0" max-vertical-offset="795">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#84#137#0" expanded="true" />
           </folding>
         </state>
       </provider>
