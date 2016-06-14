@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="txt to xls">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_15/city.txt" />
+    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="txt to xls" />
+    <list id="39d8c767-c754-45a8-8fe4-92dfc9b3c379" name="New changelist" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_16/numbers.txt" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_16/read_json.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_15/to_xls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-exercises.iws" />
@@ -30,24 +29,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="read_json.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="read_json.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/le_16/read_json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="465">
+              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="to_xls.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/le_15/to_xls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32397407" vertical-offset="15" max-vertical-offset="480">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#93#102#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -324,6 +311,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="" />
+      <changelist id="39d8c767-c754-45a8-8fe4-92dfc9b3c379" name="New changelist" comment="" />
       <created>1465524013940</created>
       <option name="number" value="Default" />
       <updated>1465524013940</updated>
@@ -466,7 +454,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465919589615</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="txt to xls 主要看正则">
+      <created>1465920521748</created>
+      <option name="number" value="00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1465920521748</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -529,7 +523,8 @@
     <MESSAGE value="判断敏感词语 并替换成***" />
     <MESSAGE value="爬图片 好玩" />
     <MESSAGE value="txt to xls" />
-    <option name="LAST_COMMIT_MESSAGE" value="txt to xls" />
+    <MESSAGE value="txt to xls 主要看正则" />
+    <option name="LAST_COMMIT_MESSAGE" value="txt to xls 主要看正则" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -850,21 +845,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/le_16/read_json.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/le_15/to_xls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32397407" vertical-offset="15" max-vertical-offset="480">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.64794815" vertical-offset="15" max-vertical-offset="480">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
           <folding>
             <element signature="e#93#102#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/le_16/read_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="465">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
