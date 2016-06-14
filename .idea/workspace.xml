@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="判断敏感词语 并替换成***">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_13/snake.py" />
+    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="爬图片 好玩">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_14/student.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_14/to_excel.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-exercises.iws" />
@@ -27,24 +28,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="snake.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/le_13/snake.py">
+      <file leaf-file-name="to_excel.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/le_14/to_excel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3" vertical-offset="30" max-vertical-offset="795">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.87473005" vertical-offset="0" max-vertical-offset="495">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
               <folding>
-                <element signature="e#92#105#0" expanded="true" />
+                <element signature="e#129#140#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/le_2/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-              <caret line="12" column="69" selection-start-line="8" selection-start-column="8" selection-end-line="12" selection-end-column="69" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -82,6 +73,8 @@
         <option value="$PROJECT_DIR$/le_11/check_word.py" />
         <option value="$PROJECT_DIR$/le_12/check_word.py" />
         <option value="$PROJECT_DIR$/le_13/snake.py" />
+        <option value="$PROJECT_DIR$/le_14/student.txt" />
+        <option value="$PROJECT_DIR$/le_14/to_excel.py" />
       </list>
     </option>
   </component>
@@ -141,21 +134,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="le_13" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python-exercises" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="le_1" />
+              <option name="myItemId" value="le_14" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -170,6 +149,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/zhangmengyuan/works/python/github/python-exercises/le_14/student.txt" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -444,7 +424,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465913397440</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="爬图片 好玩">
+      <created>1465915270319</created>
+      <option name="number" value="00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1465915270319</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -505,7 +491,8 @@
     <MESSAGE value="随机码插入mysql数据库" />
     <MESSAGE value="判断敏感词语" />
     <MESSAGE value="判断敏感词语 并替换成***" />
-    <option name="LAST_COMMIT_MESSAGE" value="判断敏感词语 并替换成***" />
+    <MESSAGE value="爬图片 好玩" />
+    <option name="LAST_COMMIT_MESSAGE" value="爬图片 好玩" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -788,6 +775,24 @@
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#92#105#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/le_14/student.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16198704" vertical-offset="0" max-vertical-offset="463">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/le_14/to_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.87473005" vertical-offset="0" max-vertical-offset="495">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding>
+            <element signature="e#129#140#0" expanded="true" />
           </folding>
         </state>
       </provider>
