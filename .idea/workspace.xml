@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="xls文件写入xml文件">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_18/city.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_18/xls_to_xml.py" />
+    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-exercises.iws" />
@@ -460,7 +458,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465997991456</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="xls文件写入xml文件">
+      <created>1465998576763</created>
+      <option name="number" value="00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1465998576763</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
