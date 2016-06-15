@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="city 写入xml文件" />
-    <list id="aba8bd35-a7b9-4d60-9fe8-16c93b047867" name="New changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_21/hash_password.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/le_21/insert_mysql.py" afterPath="" />
+    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="city 写入xml文件">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_22/thumb_image.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-exercises.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,23 +27,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="phone_bill.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/le_20/phone_bill.py">
+      <file leaf-file-name="thumb_image.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/le_22/thumb_image.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hash_password.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/le_21/hash_password.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="615">
-              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.6666667" vertical-offset="0" max-vertical-offset="855">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
-                <element signature="e#251#262#0" expanded="true" />
+                <element signature="e#68#89#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -96,6 +83,7 @@
         <option value="$PROJECT_DIR$/le_20/phone_bill.py" />
         <option value="$PROJECT_DIR$/le_21/insert_mysql.py" />
         <option value="$PROJECT_DIR$/le_21/hash_password.py" />
+        <option value="$PROJECT_DIR$/le_22/thumb_image.py" />
       </list>
     </option>
   </component>
@@ -156,7 +144,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="le_21" />
+              <option name="myItemId" value="le_22" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -315,7 +303,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="" />
-      <changelist id="aba8bd35-a7b9-4d60-9fe8-16c93b047867" name="New changelist" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1465524013940</created>
       <option name="number" value="Default" />
       <updated>1465524013940</updated>
@@ -500,7 +488,13 @@
       <option name="project" value="LOCAL" />
       <updated>1466001409262</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="密码加密和验证">
+      <created>1466001453490</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1466001453490</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -568,7 +562,8 @@
     <MESSAGE value="xls文件写入xml文件" />
     <MESSAGE value="city 写入xml文件" />
     <MESSAGE value="话费统计" />
-    <option name="LAST_COMMIT_MESSAGE" value="话费统计" />
+    <MESSAGE value="密码加密和验证" />
+    <option name="LAST_COMMIT_MESSAGE" value="密码加密和验证" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -678,13 +673,6 @@
     <entry file="file://$PROJECT_DIR$/le_5/4.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/le_5/thumb_size.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5507559" vertical-offset="135" max-vertical-offset="645">
-          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/le_6/ceshi.txt">
@@ -898,20 +886,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/le_21/hash_password.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="615">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+          <folding>
+            <element signature="e#251#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/le_20/phone_bill.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+        <state vertical-scroll-proportion="0.3" vertical-offset="0" max-vertical-offset="450">
           <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/le_21/hash_password.py">
+    <entry file="file://$PROJECT_DIR$/le_5/thumb_size.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="615">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.80561554" vertical-offset="182" max-vertical-offset="645">
+          <caret line="37" column="16" selection-start-line="12" selection-start-column="0" selection-end-line="37" selection-end-column="16" />
           <folding>
-            <element signature="e#251#262#0" expanded="true" />
+            <element signature="e#177#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/le_22/thumb_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6666667" vertical-offset="0" max-vertical-offset="855">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#68#89#0" expanded="true" />
           </folding>
         </state>
       </provider>
