@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_19/number.xls" />
+    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="" />
+    <list id="aba8bd35-a7b9-4d60-9fe8-16c93b047867" name="New changelist" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_21/hash_password.py" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_20/phone_bill.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_19/xls_to_xml.py" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/le_21/insert_mysql.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -316,6 +315,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="" />
+      <changelist id="aba8bd35-a7b9-4d60-9fe8-16c93b047867" name="New changelist" comment="" />
       <created>1465524013940</created>
       <option name="number" value="Default" />
       <updated>1465524013940</updated>
@@ -488,7 +488,13 @@
       <option name="project" value="LOCAL" />
       <updated>1465998600790</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="city 写入xml文件">
+      <created>1466001367622</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1466001367622</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
