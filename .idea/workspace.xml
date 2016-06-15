@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="" />
+    <list default="true" id="09609e4c-04be-494e-b718-e949dbd0bb19" name="Default" comment="city 写入xml文件" />
     <list id="aba8bd35-a7b9-4d60-9fe8-16c93b047867" name="New changelist" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_21/hash_password.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/le_20/phone_bill.py" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/le_21/insert_mysql.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="python-exercises.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +43,8 @@
       <file leaf-file-name="hash_password.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/le_21/hash_password.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4211663" vertical-offset="0" max-vertical-offset="615">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="615">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
               <folding>
                 <element signature="e#251#262#0" expanded="true" />
               </folding>
@@ -494,7 +494,13 @@
       <option name="project" value="LOCAL" />
       <updated>1466001367622</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="话费统计">
+      <created>1466001409262</created>
+      <option name="number" value="00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1466001409262</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -561,7 +567,8 @@
     <MESSAGE value="json to xls" />
     <MESSAGE value="xls文件写入xml文件" />
     <MESSAGE value="city 写入xml文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="city 写入xml文件" />
+    <MESSAGE value="话费统计" />
+    <option name="LAST_COMMIT_MESSAGE" value="话费统计" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -901,8 +908,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/le_21/hash_password.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4211663" vertical-offset="0" max-vertical-offset="615">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.64794815" vertical-offset="0" max-vertical-offset="615">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
             <element signature="e#251#262#0" expanded="true" />
           </folding>
