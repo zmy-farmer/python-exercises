@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+    站点：{{ info_dict.site }} 内容：{{ info_dict.content }}
+
+    <div id="header">
+        留言板
+    </div>
+
+    <div id="content">
+        <div class="add_comment">
+            <div class="comment_form">
+                <form action="/add_comment/" method="post">
+                <p>请尽情留言吧</p>
+                <p>姓名:<input type="text" name="title"></p>
+                <p>内容:<textarea name="content"></textarea></p>
+                <p><input type="submit"></p>
+                {% csrf_token %}
+                </form>
+            </div>
+        </div>
+        <div class="comment_list">
+            <p style="font-size: 20px;font-weight: bold">历史留言信息</p>
+            <div class="comment_list_content">
+                <div class="comment_boby">
+                    <div class="comment_boby_title">
+                        江小鱼 留言于2016-10-10 10:00:00
+                    </div>
+                    <div class="comment_boby_content">
+                        从入不惊,坐看花开花落 前面千军万马 吾往伊
+                    </div>
+                </div>
+
+                <div class="comment_boby">
+                    <div class="comment_boby_title">
+                        江小鱼 留言于2016-10-10 10:00:00
+                    </div>
+                    <div class="comment_boby_content">
+                        从入不惊,坐看花开花落 前面千军万马 吾往伊
+                    </div>
+                </div>
+
+                {% for athlete in athlete_list %}
+                    <li>{{ athlete.title }}</li>
+                     <div class="comment_boby">
+                        <div class="comment_boby_title">
+                            {{ athlete.title }} 留言于{{ athlete.title }}
+                        </div>
+                        <div class="comment_boby_content">
+                            {{ athlete.content }}
+                        </div>
+                    </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+
+    <div id="footer">
+
+    </div>
+{% endblock %}
+
